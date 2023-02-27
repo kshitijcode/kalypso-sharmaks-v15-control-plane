@@ -3,7 +3,7 @@ kind: GitOpsRepo
 metadata:
   name: stage
 spec:
-  repo: https://github.com/microsoft/kalypso-gitops
+  repo: https://github.com/kshitijcode/kalypso-sharmaks-v15-gitops
   branch: stage
   path: .
 
